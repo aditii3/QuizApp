@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="instruction_label">Instructions</string>
+    <string name="questions_label">Single Line Answer</string>
+    <string name="result_label">Grading</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="answer_the_question">Enter an answer</string>
+    <string name="correct">"Congrats!! Correct Answer"</string>
+    <string name="wrong">"OOPS!! Better luck next time"</string>
+    <string name="timer">Timer</string>
+    <string name="question">Question</string>
+    <string name="total">Out of 60</string>
+    <string name="awesome_job">\nYou did an incredible job</string>
+    <string name="medium_job">\nNice try!! You can do better</string>
+    <string name="bad_job">\nBetter luck next time</string>
+    <string name="submit">Submit</string>
+    <string name="quiz_instructions">This is a programming quiz.\nThe languages included are-\n1.) Java\n2.)C++\n3.)Android\nEach question is time bound.\nScoring scheme-\nFor single word/single line answers - 3 marks for correct answer.\nMCQ 1- Only one correct Answer - 5 marks for correct answer\nMCQ 2 - Multiple correct answers- 7 marks for correct answwer\nYou can get to know about your score by pressing on submit button at the end.\nBest Of Luck and Cheers!!!</string>
+</resources>

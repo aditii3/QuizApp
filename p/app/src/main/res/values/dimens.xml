@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp300">300dp</dimen>
+    <dimen name="timer_height">140dp</dimen>
+    <dimen name="dp40">40dp</dimen>
+    <dimen name="dp14">14dp</dimen>
+    <dimen name="dp20">20dp</dimen>
+    <dimen name="dp10">10dp</dimen>
+
+    <dimen name="sp20">20sp</dimen>
+    <dimen name="sp25">25sp</dimen>
+    <dimen name="sp60">60sp</dimen>
+</resources>
