@@ -29,3 +29,6 @@ dependencies {
     compile 'com.github.Hitomis:CircleMenu:v1.1.0'
 
 }
+
+//Source for CircleMenu is github
+//src: https://github.com/Hitomis/CircleMenu
